@@ -8,15 +8,14 @@ Produces ~24–1100 Hz mapped to tilt.
 ## Artifacts
 - [Project Report (PDF)](docs/Level-Synthesiser-Report.pdf)
 - Scope screenshots: [Minimum Frequency](docs/Minimum-Frequency.jpg) · [Maximum Frequency](docs/Maximum-Frequency.jpg)
-- Demo videos hosted on GitHub Releases *(v1.0.0 example)*:
-  - 🎥 [Accelerometer X-Direction](https://github.com/kainguyen05/level-synthesiser/releases/download/v1.0.0/Accelerometer_Test_xdirection.mp4)
-  - 🎥 [Accelerometer Y-Direction](https://github.com/kainguyen05/level-synthesiser/releases/download/v1.0.0/Accelerometer_Test_ydirection.mp4)
-  - 🎥 [Buffer + DC Offset Removal](https://github.com/kainguyen05/level-synthesiser/releases/download/v1.0.0/Buffer_DC_Offset_Removal_Test.mp4)
-  - 🎥 [Tone Generator](https://github.com/kainguyen05/level-synthesiser/releases/download/v1.0.0/Test_Audio_Frequency_Tone_Generator.mp4)
-  - 🎥 [Audio Driver Amplifier](https://github.com/kainguyen05/level-synthesiser/releases/download/v1.0.0/Test_Audio_Driver_Amplifier.mp4)
-  - 🎥 [Complete Circuit Demo](https://github.com/kainguyen05/level-synthesiser/releases/download/v1.0.0/Complete_Circuit_Test.mp4)
+- Demo videos hosted on GitHub Releases *(v2025.01.17)*:
+  - 🎥 [Accelerometer X-Direction](https://github.com/kainguyen05/level-synthesiser/releases/download/v2025.01.17/Accelerometer_Test_xdirection.mp4)
+  - 🎥 [Accelerometer Y-Direction](https://github.com/kainguyen05/level-synthesiser/releases/download/v2025.01.17/Accelerometer_Test_ydirection.mp4)
+  - 🎥 [Buffer + DC Offset Removal](https://github.com/kainguyen05/level-synthesiser/releases/download/v2025.01.17/Buffer_DC_Offset_Removal_Test.mp4)
+  - 🎥 [Tone Generator](https://github.com/kainguyen05/level-synthesiser/releases/download/v2025.01.17/Test_Audio_Frequency_Tone_Generator.mp4)
+  - 🎥 [Audio Driver Amplifier](https://github.com/kainguyen05/level-synthesiser/releases/download/v2025.01.17/Test_Audio_Driver_Amplifier.mp4)
+  - 🎥 [Complete Circuit Demo](https://github.com/kainguyen05/level-synthesiser/releases/download/v2025.01.17/Complete_Circuit_Test.mp4)
 
-> Replace **v1.0.0** with your actual release tag once published.
 
 ---
 
